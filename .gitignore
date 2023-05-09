@@ -1,0 +1,5 @@
+sim/**
+sim/*
+!sim/comp.sh
+!sim/sim.sh
+!sim/snap.wcfg
