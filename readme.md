@@ -8,7 +8,7 @@ See [`docs/howto.md`](/docs/howto.md).
 
 ## 📷 Screenshots
 
-The generated test image of `test_source.sv`. (White = image border)
+The generated test image of `test_source.sv` (white is the image border).
 ![](/images/test.jpg)
 
 The development board + VGA Pmod.
